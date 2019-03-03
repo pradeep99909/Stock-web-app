@@ -1,0 +1,101 @@
+Symbol,Name,Last Price,Industry / Category,Type,Exchange
+KX=F,US Dollar / Swed Krona Currency,9.01,N/A,Future,NYB
+NT=F,US Dollar / Norw Krone Currency,8.25,N/A,Future,NYB
+FXE,Invesco CurrencyShares Euro Cur,110.36,N/A,ETF,PCX
+FXY,Invesco CurrencyShares Japanese,84.13,N/A,ETF,PCX
+FXA,Invesco CurrencyShares Australi,70.44,N/A,ETF,PCX
+FXC,Invesco CurrencyShares Canadian,76.21,N/A,ETF,PCX
+FXB,Invesco CurrencyShares British,127.22,N/A,ETF,PCX
+FXF,Invesco CurrencyShares Swiss Fr,94.32,N/A,ETF,PCX
+HEFA,iShares Currency Hedged MSCI EA,29.43,N/A,ETF,BTS
+DBV,Invesco DB G10 Currency Harvest,24.14,N/A,ETF,PCX
+HEWJ,iShares Currency Hedged MSCI Ja,33.7,N/A,ETF,PCX
+CEW,WisdomTree Emerging Currency St,18.02,N/A,ETF,PCX
+HEWG,iShares Currency Hedged MSCI Ge,26.96,N/A,ETF,NGM
+HEZU,iShares Currency Hedged MSCI Eu,29.2,N/A,ETF,PCX
+DLR.TO,HORIZONS US DOLLAR CURRENCY ETF,12.97,N/A,ETF,TOR
+HSCZ,iShares Currency Hedged MSCI EA,30.62,N/A,ETF,PCX
+HEWY,iShares Currency Hedged MSCI So,27.86,N/A,ETF,PCX
+DDWM,WisdomTree Dynamic Currency Hed,29.17,N/A,ETF,BTS
+PLMIX,PIMCO Emerging Markets Currency,8.58,N/A,Mutual Fund,NAS
+HEEM,iShares Currency Hedged MSCI Em,24.42,N/A,ETF,BTS
+DDEZ,WisdomTree Dynamic Currency Hed,29.84,N/A,ETF,BTS
+HEWU,iShares Currency Hedged MSCI Un,23.85,N/A,ETF,PCX
+MERKX,Merk Hard Currency Investor Sha,9.33,N/A,Mutual Fund,NAS
+HEWC,iShares Currency Hedged MSCI Ca,26.38,N/A,ETF,PCX
+TLDH,FlexShares Currency Hedged Morn,28.32,N/A,ETF,PCX
+HEWP,iShares Currency Hedged MSCI Sp,21.13,N/A,ETF,PCX
+CURN,CURRENCY EXCH INTL,24,N/A,Stocks,PNK
+HEWI,iShares Currency Hedged MSCI It,16.02,N/A,ETF,PCX
+TLEH,FlexShares Currency Hedged Morn,27.14,N/A,ETF,PCX
+DHDG,WisdomTree Dynamic Currency Hed,24.13,N/A,ETF,BTS
+DDLS,WisdomTree Dynamic Currency Hed,31.55,N/A,ETF,BTS
+HJPX,iShares Currency Hedged JPX-Nik,30.39,N/A,ETF,PCX
+HAWX,iShares Currency Hedged MSCI AC,26.21,N/A,ETF,PCX
+^EVZ,CBOE Euro currency Volatility I,7.59,N/A,Index,WCB
+ICPHX,Templeton Global Currency Fund,7.6,N/A,Mutual Fund,NAS
+DEFA,iShares Adaptive Currency Hedge,28.75,N/A,ETF,BTS
+^XNDXEURMH,XNDXEUR Monthly Currency Hedged,"1,463.68",N/A,Index,NIM
+CXI.TO,CURRENCY EXCHANGE INTERNATIONAL,31.02,Financial,Stocks,TOR
+DEZU,iShares Adaptive Currency Hedge,27.59,N/A,ETF,BTS
+NTZ18.NYB,US Dollar / Norw Krone Currency,8.25,N/A,Future,NYB
+HEWG.MX,ISHARES TRUST ISHARES CURRENCY,521.65,N/A,ETF,MEX
+^FBV-NV,PowerShares DB G10 Currency Har,24.2,N/A,Index,NYS
+VMHAX,Emerging Markets Hard Currency,9.12,N/A,Mutual Fund,NAS
+DLR-U.TO,HORIZONS US DOLLAR CURRENCY ETF,10.01,N/A,ETF,TOR
+^FXC-DP,Invesco CurrencyShares Canadian,"136,444.60",N/A,Index,NYS
+MAAIX,Merk Absolute Return Currency F,8.87,N/A,Mutual Fund,NAS
+PLMPX,PIMCO Emerging Markets Currency,8.58,N/A,Mutual Fund,NAS
+MABFX,Merk Absolute Return Currency F,8.76,N/A,Mutual Fund,NAS
+^FXS-DP,Invesco CurrencyShares Swedish,"146,521.75",N/A,Index,NYS
+HEZU.MX,ISHARES TRUST CURRENCY HEDGED M,553.85,N/A,ETF,MEX
+RBCAMRDEDIVI.TO,RBC U.S. Dividend Currency Neu,11.92,N/A,Mutual Fund,TOR
+GB00B39THP26.L,CMIG US Dollar Currency Reserv,0,N/A,Mutual Fund,LSE
+^DBCFHX,POWERSHARES DBG 10 CURRENCY HAR,274.71,N/A,Index,NYS
+^NQXAUHAUDNMH,NQXAUHAUDN Monthly Currency Hed,"2,975.81",N/A,Index,NIM
+HGC.TO,HORIZONS GLOBAL CURRENCY OPP ET,10.47,N/A,ETF,TOR
+GHCCX,Good Harbor Tactical Currency S,9.92,N/A,Mutual Fund,NAS
+F0CAN05LWP.TO,NBI International Currency Neu,9.78,N/A,Mutual Fund,TOR
+^FXA-DP,Invesco CurrencyShares Australi,"20,008.51",N/A,Index,NYS
+^FBV,PowerShares DB G10 Currency Har,24.16,N/A,Index,NYS
+^FXF-DP,Invesco CurrencyShares Swiss Fr,"64,407.00",N/A,Index,NYS
+^FXY-DP,Invesco CurrencyShares Japanese,"478,007.56",N/A,Index,NYS
+KXZ18.NYB,US Dollar / Swed Krona Currency,9.01,N/A,Future,NYB
+GHCIX,Good Harbor Tactical Currency S,10.27,N/A,Mutual Fund,NAS
+^DAACADMH,DAACAD Monthly Currency Hedged,"1,353.37",N/A,Index,NIM
+PLMAX,PIMCO Emerging Markets Currency,8.58,N/A,Mutual Fund,NAS
+^WTISDIHD,WisdomTree Dynamic Currency Hed,245.98,N/A,Index,SNP
+^RCCVUSD,Russell Conscious Currency Valu,"2,017.35",N/A,Index,WCB
+^RCCCUSD,Russell Conscious Currency Carr,"2,173.63",N/A,Index,WCB
+^NDXEURMH,NDXEUR Monthly Currency Hedged,"1,438.21",N/A,Index,NIM
+MHCIX,Merk Hard Currency Fund - Insti,9.45,N/A,Mutual Fund,NAS
+^NQXAUHAUDTMH,NQXAUHAUDT Monthly Currency Hed,"3,019.06",N/A,Index,NIM
+^RCCTUSD,Russell Conscious Currency Tren,"1,075.81",N/A,Index,WCB
+GHCAX,Good Harbor Tactical Currency S,10.21,N/A,Mutual Fund,NAS
+^FXE-DP,Invesco CurrencyShares Euro Cur,"176,103.22",N/A,Index,NYS
+VEMWX,Emerging Markets Hard Currency,9.11,N/A,Mutual Fund,NAS
+ICHHX,Templeton Global Currency Fund,7.72,N/A,Mutual Fund,NAS
+^WTDFAHD,WisdomTree Dynamic Currency Hed,223.47,N/A,Index,SNP
+^NDXGBPMH,NDXGBP Monthly Currency Hedged,"1,213.44",N/A,Index,NIM
+^RCCIUSD,Russell Conscious Currency USD,"1,763.95",N/A,Index,WCB
+PLMCX,PIMCO Emerging Markets Currency,8.58,N/A,Mutual Fund,NAS
+^XNDXGBPMH,XNDXGBP Monthly Currency Hedged,"1,234.97",N/A,Index,NIM
+HEWJ.MX,ISHARES TRUST ISHARES CURRENCY,634.2,N/A,ETF,MEX
+^XNDXCHFMH,XNDXCHF Monthly Currency Hedged,"1,760.00",N/A,Index,NIM
+FGCQX,Templeton Global Currency Fund,7.71,N/A,Mutual Fund,NAS
+F00000JULX.L,CMIG US Dollar Currency Reserv,0,N/A,Mutual Fund,LSE
+F00000X63O.TO,RBC U.S. Dividend Currency Neu,11.88,N/A,Mutual Fund,TOR
+HEEM.MX,ISHARES INC CURRENCY HEDGED MSC,462.1,N/A,ETF,MEX
+^NQXAUEAUDNMH,NQXAUEAUDN Monthly Currency Hed,"2,555.18",N/A,Index,NIM
+^NQXAUBAUDMH,NQXAUBAUD Monthly Currency Hedg,"2,470.65",N/A,Index,NIM
+F00000XA24.TO,IA U.S. Equity Currency Neutra,11.96,N/A,Mutual Fund,TOR
+F00000X63N.TO,RBC U.S. Dividend Currency Neu,13.15,N/A,Mutual Fund,TOR
+F00000GZLR.TO,US Equity Value Currency Hedge,18.09,N/A,Mutual Fund,TOR
+F000002QMX.IR,Absolute Insight Currency Fund,98,N/A,Mutual Fund,ISE
+IE00B3CLDK25.IR,Absolute Insight Currency Fund,98,N/A,Mutual Fund,ISE
+IE00B2QV7543.IR,Absolute Insight Currency B3p,101,N/A,Mutual Fund,ISE
+RBCNEUTREEND.TO,RBC US Equity Currency Neutral,17.18,N/A,Mutual Fund,TOR
+F00000SK5W.SI,United Asian Local Currency Bo,1.03,N/A,Mutual Fund,SES
+IE00B1HL9055.IR,Absolute Insight Currency B1p,0.97,N/A,Mutual Fund,ISE
+^NQXAUGLDAUDTMH,NQXAUGLDAUDT Monthly Currency H,"1,206.59",N/A,Index,NIM
+F*NT.NYB,US Dollar / Norw Krone Currency,8.25,N/A,Future,NYB
