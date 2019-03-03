@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team_details>
+  <member>
+    <name>Pradnesh</name>
+    <roll>48</roll>
+    <designation>developer</designation>
+    <description>student</description>
+    <image>pradnesh</image>
+  </member>
+  <member>
+  <name>Pradeep</name>
+  <roll>50</roll>
+  <designation>Designer</designation>
+  <description>Student</description>
+  <image>pradeep</image>
+</member>
+<member>
+  <name>Aniket</name>
+  <roll>41</roll>
+  <designation>database admin</designation>
+  <description>Student</description>
+  <image>aniket</image>
+</member>
+<member>
+  <name>Kalpesh</name>
+  <roll>61</roll>
+  <designation>manager</designation>
+  <description>Student</description>
+  <image>kalpesh</image>
+</member>
+
+</team_details>
